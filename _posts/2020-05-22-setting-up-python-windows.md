@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Setting up a Python development environment in Windows"
+date:   2020-05-22 16:38:34 +0100
+categories: python poetry pyenv dev_env
+---
 # Setting up a Python development environment in Windows
 
 ## Preparing the system
